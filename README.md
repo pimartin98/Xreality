@@ -1,7 +1,7 @@
 Comme le projet unity contient des fichiers de gros formats, quelques configuration avec lfs sont nécessaires.
 
 Pour les utilisateurs Windows :
-Premièrement, il faut se rendre sur la page git-lfs.github pour télécharger l'extension de ligne de commande de lfs.
+Premièrement, il faut se rendre sur la page https://git-lfs.github.com/ pour télécharger l'extension de ligne de commande de lfs.
 
 Sur le git bash :
 
